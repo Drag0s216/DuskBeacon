@@ -1,4 +1,4 @@
-# 🌙 AutoNightLamp
+# 🌙 DuskBeacon
 
 An RGB lamp that automatically turns on at night, but only if I'm actually home. It uses ping in order to detect my phone.
 
